@@ -1,0 +1,5 @@
+﻿  Network2_Service.cpp
+d:\myprogram\c++\network2\network2\network2_service.cpp(34): warning C4101: “p”: 未引用的局部变量
+d:\myprogram\c++\network2\network2\network2_service.cpp(210): warning C4309: “=”: 截断常量值
+  Network2.vcxproj -> D:\Myprogram\c++\Network2\Debug\Network2.exe
+  Network2.vcxproj -> D:\Myprogram\c++\Network2\Debug\Network2.pdb (Full PDB)

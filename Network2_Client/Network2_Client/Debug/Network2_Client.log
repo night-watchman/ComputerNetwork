@@ -1,0 +1,8 @@
+﻿  Network2_Client.cpp
+d:\myprogram\c++\network2_client\network2_client\network2_client.cpp(87): warning C4305: “初始化”: 从“double”到“float”截断
+d:\myprogram\c++\network2_client\network2_client\network2_client.cpp(88): warning C4305: “初始化”: 从“double”到“float”截断
+d:\myprogram\c++\network2_client\network2_client\network2_client.cpp(118): warning C4309: “=”: 截断常量值
+d:\myprogram\c++\network2_client\network2_client\network2_client.cpp(144): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+d:\myprogram\c++\network2_client\network2_client\network2_client.cpp(153): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+  Network2_Client.vcxproj -> D:\Myprogram\c++\Network2_Client\Debug\Network2_Client.exe
+  Network2_Client.vcxproj -> D:\Myprogram\c++\Network2_Client\Debug\Network2_Client.pdb (Full PDB)
